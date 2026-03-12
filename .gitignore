@@ -1,0 +1,27 @@
+# Environment / secrets
+.env
+.env.save
+*.key
+
+# Generated review outputs
+output/
+
+# Uploaded vendor documents
+uploads/
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
