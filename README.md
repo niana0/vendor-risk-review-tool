@@ -53,7 +53,7 @@ Upload vendor documents to one of three tabs:
 ### Setup
 
 ```bash
-cd "/Users/ana.ni/Documents/Obsidian Vault/Claude Code projects/Vendor Review Tool v1.0"
+cd "[Directory where you saved the project]"
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
